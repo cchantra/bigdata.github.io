@@ -17,10 +17,10 @@ from tweepy.streaming import StreamListener
 
 
 # Replace the values below with yours
-ACCESS_TOKEN = '720187254216339456-jxjDSZi27GGQMNoVguO2UqFJyXWrcu6'
-ACCESS_SECRET = 'z0nU30GEUloCgyc7XsyMPugQmTz4aL9XEpfPHg6EQEvZd'
-CONSUMER_KEY = 'WDRZjnqvNG1msTvPHKlmFniYF'
-CONSUMER_SECRET = '4NaUyVGG1k1xfFTjtwv1P8rx953pFZegenMsr8LASgEwVHDIqm'
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
 
 class TweetsListener(StreamListener):
